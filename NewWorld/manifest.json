@@ -1,0 +1,10 @@
+﻿{
+  "Name": "NewWorld",
+  "Author": "bsdpunk",
+  "Version": "1.0",
+  "Description": "Everything is different",
+  "UniqueID": "bsdpunk.NewWorld",
+  "EntryDll": "NewWorld.dll",
+  "MinimumApiVersion": "2.0",
+  "UpdateKeys": []
+}
